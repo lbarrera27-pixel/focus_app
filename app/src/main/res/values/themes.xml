@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema base de la ventana; los colores reales vienen de FocusTheme (Compose). -->
+    <style name="Theme.Focus" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#F8FAFC</item>
+    </style>
+</resources>

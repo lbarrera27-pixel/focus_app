@@ -1,0 +1,21 @@
+# Gradle y Kotlin
+.gradle/
+.kotlin/
+build/
+app/build/
+
+# Android Studio
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Archivos locales (ruta del SDK, llaves de firma)
+local.properties
+*.jks
+*.keystore
+
+# Sistema
+.DS_Store
+Thumbs.db
